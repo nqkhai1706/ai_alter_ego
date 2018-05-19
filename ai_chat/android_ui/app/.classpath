@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="libs/Parse-1.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
